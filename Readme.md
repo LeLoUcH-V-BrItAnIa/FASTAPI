@@ -84,6 +84,10 @@ Create a virtual environment
 python -m venv venv
 venv\Scripts\activate
 ```
+### Anaconda Distribution
+```bash
+conda create -n venv python == "Your Needed Version"
+```
 
 ### Linux / macOS
 
