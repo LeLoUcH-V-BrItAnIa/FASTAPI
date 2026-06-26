@@ -89,6 +89,11 @@ venv\Scripts\activate
 conda create -n venv python == "Your Needed Version"
 ```
 
+### Anaconda Distribution Activation
+```bash
+conda activate "Your environment name"
+```
+
 ### Linux / macOS
 
 ```bash
